@@ -1,5 +1,0 @@
-ec.product.addCart =  function(skuId, proName,productType,buyNum,thix,skuCode)
-
-ec.product.addCart(10086952459252,'','I',1,'',2601010052802);
-ec.product.addCart(10086555215722,'','I',1,'',2801010038002);
-ec.product.addCart(10086620469402,'','I',2,'',2601010084514);
